@@ -1,4 +1,8 @@
 partner list
+<<<<<<< HEAD
+SalesInc
+=======
+>>>>>>> 7781746 (F: Delete conflicting records)
 Boot.dev
 TheStartup
 
